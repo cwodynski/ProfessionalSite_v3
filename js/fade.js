@@ -1,0 +1,1 @@
+ScrollReveal().reveal('.project-presentation__content', {delay: 500});
